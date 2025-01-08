@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("🎈NEW")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Lihat dan Saksikan Vidio Vidio Menarik Dari Kami [RHAACOZZ](https://www.instagram.com/rhaacozz?igsh=dGY4aHprNmJsMmI0)."
 )
